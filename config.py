@@ -13,19 +13,19 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝐃ɛʂꙷʈͦɪͧղͬ𝐘... ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "ᴇʟᴠɪsʜxᴍᴜsɪᴄ")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "1138802391").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6697091404").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/KingEvil55/DAXXMUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Bloodydaddyy/DAXXMUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/miss_x_network")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/themortalclan")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/elvishxmusic")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/elvish_music")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -58,7 +58,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
 STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", "BQBS6o1GyCg89ywjJe-n69J6aJ58X9h2dkB6N08JHxfuKTXI6tOc8MgW9pIYFhtt1ykHpABaAJfJnMTZrt1-qLaTFVTLBZe2ARl6l8lxzBRiXAWUbm0OcnvMn4KreiEQl6tgi2ScchmNaxIjjLvquO0JYuqtZGPpOtqgmvDzV754gbkEDeERV824Egy3owtoczoefycUIIdXpmkdG1X_7RQeqJC3UU2d9im8oVUash693AIJdLLTmjQiOAh2TrdH61qja-NDBbO9Wo38vuMwkLyw_q-2WDqeRjt74dfDKezY88RaTAITdvkWXeMHmQ-SkzBvt3HXhak24BsaDJaaJe2mAAAAAYS5shsA")
+STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
@@ -75,7 +75,7 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/e602356bafe2799f708bd.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/ceaeacbe6c655d6020f07.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
