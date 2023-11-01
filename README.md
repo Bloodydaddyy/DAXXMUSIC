@@ -24,7 +24,7 @@
   <img src="https://graph.org/file/ec2c38e61ce2a0b84d484.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/Mikazukimusic_bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗢𝗧❥](https://t.me/ELVISHXMUSIC_bot)**
 
 
 
@@ -37,7 +37,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KingEvil55/DAXXMUSIC"> <img src="https://github.com/KingEvil55/DAXXMUSIC/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bloodydaddyy/DAXXMUSIC"> <img src="https://github.com/KingEvil55/DAXXMUSIC/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
 
 
 
